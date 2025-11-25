@@ -1,1 +1,2 @@
-# smssku.github.io
+Code made by Tiny
+Це тестова стрічночка для тренувань.
